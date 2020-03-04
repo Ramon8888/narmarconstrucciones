@@ -166,7 +166,6 @@ h6 {
     backface-visibility: hidden;
     animation: slideBg 8s linear infinite 0s;
     animation-timing-function: ease-in-out;
-    background-image: url('../img/team-1.jpg');
 }
 
 @keyframes slideBg {
